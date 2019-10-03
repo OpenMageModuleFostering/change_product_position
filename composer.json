@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/change_product_position",
+    "name": "OpenMageModuleFostering\/change_product_position",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "This extension helps change the product ordering in the listings page.",
     "authors": [
-    {
-        "name": "StrApp",
-        "email": "strappvivek@gmail.com"
-    }
-],
+        {
+            "name": "StrApp",
+            "email": "strappvivek@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
