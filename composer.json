@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/change_product_position",
+    "name": "openmage-module-fostering\/change_product_position",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This extension helps change the product ordering in the listings page.",
     "authors": [
